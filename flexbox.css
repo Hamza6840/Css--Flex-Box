@@ -1,0 +1,88 @@
+.parent{
+    background-color: #d0d0d0;
+    padding: 20px;
+
+}
+.first-main-container{
+    display: flex;
+    height: 370px;
+    
+}
+.one{
+    font-size: 60px;
+    background-color: #ff7676;
+    width: 30%;
+     text-align: center; 
+    justify-content: center;
+    align-content: center;
+
+}
+.two-main{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    /* height: 250px; */
+    /* justify-content: center;
+    text-align: center; */
+    margin-left: 20px;
+    
+    
+    
+    
+}
+.two-main-child{
+    font-size: 60px;
+    background-color: #c2ff76;
+    text-align: center; 
+    justify-content: center;
+    align-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+   
+   
+    
+}
+.three-main{
+    display: flex;
+    margin-top: 10px;
+}
+.three-main-chlid{
+    font-size: 60px;
+    background-color: #ff9bf7;
+    width: 50%;
+    text-align: center; 
+    justify-content: center;
+    align-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 10px;
+    
+    
+}
+.letter-main{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+     
+}
+.a{
+    font-size: 60px;
+    background-color: #9ba4ff;
+    text-align: center; 
+    justify-content: center;
+    align-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.b{
+    font-size: 60px;
+    background-color: #9ba4ff;
+    text-align: center; 
+    justify-content: center;
+    align-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+   
+}
